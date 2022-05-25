@@ -13,7 +13,7 @@
 
 - **Implementation**
 
-  - *3.1 Algorithms Description*
+  - *Algorithms Description*
 
     Alpha Algotithm -> 
     The α-algorithm focus on control flow such as the ordering of the activities, it’s one of the first algorithm suitable to     discovery model.
@@ -26,12 +26,12 @@
     This provides the basis for identifying the dependencies and to build the dependency graph.
     Eventually, there are tools that can convert this dependency graph into a Petri Net.
 
-  - *3.2 Tool Description*
+  - *Tool Description*
 
     The tool I chose is Pm4Py, that is the leading open-source process mining platform written in Python.
     It is extendable, easily integrable with other application and fully documented on their documentation pages.
 
-  - *3.3 Results*
+  - *Results*
 
 
 - **Conclusion**
