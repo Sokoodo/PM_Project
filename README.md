@@ -1,4 +1,4 @@
-**Process Mining Project Report**
+# **Process Mining Project Report**
 
 - **Introduction**
 
