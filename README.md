@@ -2,7 +2,7 @@
 
 - **Introduction**
 
-  The main objective of my project was to show and analyse how two different algorithms works using the same tool.
+  The main objective of the project was to show and analyse how two different algorithms works using the same tool.
 
 - **Log Description**
 
@@ -28,11 +28,15 @@
 
   - *Tool Description*
 
-    The tool I chose is Pm4Py, that is the leading open-source process mining platform written in Python.
-    It is extendable, easily integrable with other application and fully documented on their documentation pages.
+    The choosen tool is Pm4Py, that is the leading open-source process mining platform written in Python.
+    It is extendable, easily integrable with other application and fully documented on their documentation pages ([Pm4Py Documentation](https://pm4py.fit.fraunhofer.de/docs)).
 
   - *Results*
-
+  
+    All the final Nets are the result of function provided by the tool Pm4Py, that provides a lot of functionalities about Process Mining.
+    This Heuristic graphical result is really clear and the dependencies inside the graph itself are well showed, thanks to a function of Pm4Py the resulting Dependency graph has been converted into a Petri Net.
+    Both the Petri Nets and the Heuristic Net, coming from Heuristic Miner and from Alpha Algorithm, will appear as images when you run the filter.py, thanks to the functionalties of the graphical tool **GraphViz**.
+    The two Petri Nets can also be found in the two files with the extension ".pnml", that can be exported in any other Process Mining tool that supports that format.
 
 - **Conclusion**
 
