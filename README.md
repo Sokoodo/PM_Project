@@ -1,5 +1,7 @@
 # **Process Mining Project Report**
 
+## **Application of two Process Mining techniques using specific tools**
+
 - **Introduction**
 
   The project is based on the application of Process Mining techniques and algorithms using particular logs, in this case an event log from a Loan Application Process.
